@@ -5,4 +5,4 @@ Projects in 2022
 ---
 - [**2. TOAPAYOH - BANK OF DONATIONS (on Solana blockchain)**](https://github.com/my-crypto-datascience-portfolio/my_crypto_donations_bank_solana/)
 - [**3. BUGIS - Auto-generation of DAO (Decentralized Autonomous Organisation) on Solana blockchain**](https://github.com/my-crypto-datascience-portfolio/my_crypto_dao_constructor_solana/wiki/)
-- [**4. OLAP NFT - NFT mapping on Oracle**](https://github.com/my-crypto-datascience-portfolio/my_crypto_dao_constructor_solana/wiki/)
+- [**4. OLAP NFT - NFT mapping on Oracle**](https://github.com/my-crypto-datascience-portfolio/my_crypto_OLAP_NFT/wiki/)
